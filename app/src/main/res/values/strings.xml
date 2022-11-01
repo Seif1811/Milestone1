@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectMS1New</string>
+    <string name="title_activity_google_maps">GoogleMapsActivity</string>
+    <string name="title_activity_maps_new">MapsNewActivity</string>
+    <string name="title_activity_final_maps">FinalMapsActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
